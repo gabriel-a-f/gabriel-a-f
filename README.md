@@ -27,5 +27,5 @@
   <a href = "mailto:gabriel.alves4479@gmial.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/Gabriel Alves Fagundes " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+![snake gif](https://github.com/gabriel-a-f/gabriel-a-f/blob/output/github-contribution-grid-snake.svg)
 ##
